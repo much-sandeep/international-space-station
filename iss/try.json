@@ -1,0 +1,19 @@
+[
+  {
+    "name": "media house",
+    "employee": "hardworking",
+    "number": 1500,
+    "ceo": "muskberg",
+    "rating": 3.9,
+    "location": "bangkok"
+  },
+  {
+    "name": "club cricket",
+    "employee": "shenanigans",
+    "number": 1000,
+    "ceo": "patel",
+    "rating": 3.5,
+    "location": "islamabad"
+  }
+]
+]
