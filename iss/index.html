@@ -19,16 +19,26 @@
         height: 550px;
         width: 90%;
       }
+      .info {
+        margin-top: 20px;
+      }
+      #entitiesList {
+        margin-top: 20px;
+      }
     </style>
-    <title>Behind the cloud</title>
+    <title>Behind the Cloud</title>
   </head>
   <body>
-    <h3>where is the international space station</h3>
+    <h3>Where is the International Space Station?</h3>
     <p>
-      Latitude:<span id="lat"></span><br />
-      Longitude:<span id="long"></span>
+      Latitude: <span id="lat"></span><br />
+      Longitude: <span id="long"></span>
     </p>
     <div id="issMap"></div>
+    <div class="info">
+      <h4>Select an Entity:</h4>
+      <select id="entitiesList"></select>
+    </div>
     <script src="script.js"></script>
   </body>
 </html>
